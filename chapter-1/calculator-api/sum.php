@@ -1,4 +1,9 @@
 <?php
+// {
+// 	"type":"sum",
+// 	"number_1":10,
+// 	"number_2":10
+// }
 function sum($n1, $n2)
 {
   $response = [
